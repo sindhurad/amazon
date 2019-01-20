@@ -30,6 +30,7 @@ public class debenhams {
         driver.findElement(By.xpath("/html/body/div[1]/div[6]/div[1]/div[2]/div/div[2]/div[8]/div[8]/div[3]/div/button")).click();
         driver.findElement(By.xpath("/html/body/div[1]/div[6]/div[1]/div[2]/div/div[2]/div[8]/div[8]/div[3]/div/div/a")).click();
         driver.findElement(By.linkText("Go to checkout")).click();
+        //just new commit 
     }
 }
 
